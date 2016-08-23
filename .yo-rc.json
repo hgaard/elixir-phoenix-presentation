@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "elixir-phoenix",
+    "packageVersion": "0.1.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "hgaard",
+    "githubRepository": "elixir-phoenix-presentation"
+  }
+}
