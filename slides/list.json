@@ -1,0 +1,17 @@
+[
+    "index.md",
+    "agenda.md",
+    {
+        "filename": "elixir-basics.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    "workshop.md",
+    {
+        "filename": "elixir-basics.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    }
+]
