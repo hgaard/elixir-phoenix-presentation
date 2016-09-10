@@ -1,0 +1,15 @@
+[
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-background-image": "resources/phoenixframework-logo.png"
+        }
+    },
+    "what-is-elixir.md",
+    "erlang-and-beam.md",
+    "elixir-basics.md",
+    "why-is-elixir-interesting.md",
+    "pattern-matching.md",
+    "workshop.md",
+    "resources.md"
+]
