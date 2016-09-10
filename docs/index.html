@@ -17,8 +17,8 @@
     
 
         <!-- For syntax highlighting -->
-        <link rel="stylesheet" href="bower_components/highlightjs/styles/zenburn.css">
-
+        <link rel="stylesheet" href="bower_components/highlightjs/styles/dracula.css">
+        <!--<link rel="stylesheet" href="bower_components/highlightjs/styles/zenburn.css">-->
         <!-- Printing and PDF exports -->
         <script>
             var link = document.createElement( 'link' );
@@ -39,18 +39,71 @@
 
             <div class="slides">
 
-                <% _.forEach(slides, function(slide) { %>
-                    <% if (!_.isArray(slide)) { %>
-                        <%= section(slide) %>
-                    <% } %>
-                    <% if (_.isArray(slide)) { %>
-                        <section>
-                            <% _.forEach(slide, function(verticalslide) { %>
-                                <%= section(verticalslide) %>
-                            <% }); %>
-                        </section>
-                    <% } %>
-                <% }); %>
+                
+                    
+                        
+    <section data-background-image="resources/phoenixframework-logo.png" data-markdown="slides/index.md"></section>
+
+
+                    
+                    
+                
+                    
+                        
+    <section data-markdown="slides/what-is-elixir.md"></section>
+
+
+                    
+                    
+                
+                    
+                        
+    <section data-markdown="slides/erlang-and-beam.md"></section>
+
+
+                    
+                    
+                
+                    
+                        
+    <section data-markdown="slides/elixir-basics.md"></section>
+
+
+                    
+                    
+                
+                    
+                        
+    <section data-markdown="slides/why-is-elixir-interesting.md"></section>
+
+
+                    
+                    
+                
+                    
+                        
+    <section data-markdown="slides/pattern-matching.md"></section>
+
+
+                    
+                    
+                
+                    
+                        
+    <section data-markdown="slides/workshop.md"></section>
+
+
+                    
+                    
+                
+                    
+                        
+    <section data-markdown="slides/resources.md"></section>
+
+
+                    
+                    
+                
             </div>
 
         </div>

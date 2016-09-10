@@ -1,0 +1,13 @@
+* Presentstion
+- [ ] Create skeleton slices from outline
+- [ ] Link to presentation (gh pages) in readme
+- [ ] Ensure reveal stuff works in /docs folder
+
+* Repo organization
+- [ ] Move presentation to /docs folder
+- [ ] Create /src folder for workshop content
+- [ ] Create readme for root of repo
+
+* Workshop content
+- [ ] Create workshop readme
+- [ ] Have complete example of workshop source code in repo
