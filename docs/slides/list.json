@@ -61,7 +61,9 @@
         }, 
         "a-modern-web-framework.md",
         "building-blocks.md",
-        "mvc-of-phoenix.md"
+        "mvc-of-phoenix.md",
+        "phoenix-controller.md",
+        "phoenix-action.md"
     ],
     [
         {
@@ -71,6 +73,8 @@
             }
         },
         "what-did-i-leave-out.md",
+        "questions.md",
+        "thank-you.md",
         "resources.md"
     ]
 ]
