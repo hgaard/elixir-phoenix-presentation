@@ -152,7 +152,6 @@ module.exports = (grunt) ->
     grunt.registerTask 'deploy',
         'Deploy to Github Pages', [
             'dist'
-            'buildcontrol'
         ]
     
 

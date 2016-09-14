@@ -2,14 +2,75 @@
     {
         "filename": "index.md",
         "attr": {
-            "data-background-image": "resources/phoenixframework-logo.png"
+            "data-background-image": "resources/elixir-phoenix-workshop-logo.png"
         }
     },
     "what-is-elixir.md",
     "erlang-and-beam.md",
+    "erlang-and-beam-2.md",
     "elixir-basics.md",
-    "why-is-elixir-interesting.md",
-    "pattern-matching.md",
-    "workshop.md",
-    "resources.md"
+    [
+        "types.md",
+        "operators.md",
+        "functions-and-modules.md",
+        "anonumous-functions.md",
+        "keywords-maps-structs.md",
+        "structs.md"
+    ],
+    [
+        {
+            "filename":"pattern-matching.md",
+            "attr": {
+               "data-background-image": "resources/puttekasse.jpeg"
+            }
+        },
+        "unlearn-the-equal-sign.md",
+        "pattern-matching-basics.md",
+        "pattern-matching-functions.md",
+        "control-structures-case.md",
+        "control-structures-cond.md",
+        "if-unless.md"
+    ],
+    "pipeline-operator.md",
+    [
+        {
+            "filename": "concurrency.md",
+            "attr": {
+               "data-background-image": "resources/concurrency-1.jpeg"
+            }
+        },
+        "processes.md",
+        "supervisors.md"
+    ],
+    [
+        {
+            "filename":"ecosystem.md",
+            "attr": {
+               "data-background-image": "resources/ecosystem.jpg"
+            }
+        },
+        "iex.md",
+        "mix.md",
+        "project-structure.md"
+    ],
+    [
+       {
+            "attr": {
+               "data-background-image": "resources/phoenixframework-logo.png"
+            }
+        }, 
+        "a-modern-web-framework.md",
+        "building-blocks.md",
+        "mvc-of-phoenix.md"
+    ],
+    [
+        {
+            "filename":"what-now.md",
+            "attr": {
+               "data-background-image": "resources/ecosystem.jpg"
+            }
+        },
+        "what-did-i-leave-out.md",
+        "resources.md"
+    ]
 ]

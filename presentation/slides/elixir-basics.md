@@ -1,17 +1,13 @@
+![Elixir-logo](resources/elixir-logo-3.png)
 
-##  Elixir basics
-
-![Elixir-logo](resources/elixir-logo.png)
-
-* Created by Jose Valim
-* Design goal
-    - Utilse the awesomeness of BEAM and creat a language devs love?
-    - Fail fast and recover (actors)
-* Syntax
-    - Ruby inspired (on the surface)
+* Created by José Valim
+* Full inter-operation with Erlang
+* More or less shared type system with Erlang
+* Ruby inspired syntax (on the surface)
+* Steals great things from any language
 
 note:
-    Jose got started afted reading the 7 languages book
+    Jose got started after reading the 7 languages book
 
     Erlang has a reputation of being hard to approach
 

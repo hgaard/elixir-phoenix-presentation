@@ -1,13 +1,11 @@
 ##  Erlang and BEAM
 
-* Erlang basics
-* OTP
-* From the 80'ies
-* For TelCo
-* Fail fast
-* Actor model
+![Erlang-logo](resources/erlang-logo.png)
+
+* Erlang is a general purpose, concurrent functional programming language created at Ericsson in the mid 80'ies as a new language for programming phone switches
+
+* Designed by Joe Armstrong, Robert Virding, and Mike Williams
+
 
 note:
-    Put your speaker notes here.
-
-    You can see them pressing 's'.
+    

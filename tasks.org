@@ -1,13 +1,22 @@
-* Presentstion
-- [ ] Create skeleton slices from outline
-- [ ] Link to presentation (gh pages) in readme
-- [ ] Ensure reveal stuff works in /docs folder
+* Presentation
+- [X] Create skeleton slices from outline
+- [X] Link to presentation (gh pages) in readme
+- [X] Ensure reveal stuff works in /docs folder
+- [ ] Add slide on Structs
+
 
 * Repo organization
-- [ ] Move presentation to /docs folder
-- [ ] Create /src folder for workshop content
-- [ ] Create readme for root of repo
+- [X] Move presentation to /docs folder
+- [X] Create /src folder for workshop content
+- [X] Create readme for root of repo
 
-* Workshop content
-- [ ] Create workshop readme
+* Workshop/demo content
+- [X] Create workshop readme
 - [ ] Have complete example of workshop source code in repo
+- [ ] Create example around the weather stuff
+  - [ ] Create simple app that will find
+    - [ ] The number of sunny days
+    - [ ] Days with/without rain
+    - [ ] Compare that to Copenhagen?
+    - [ ] Run as separate process?
+    - [ ] Improve by presenting in phoenix?
