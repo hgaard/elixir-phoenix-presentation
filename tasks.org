@@ -2,7 +2,13 @@
 - [X] Create skeleton slices from outline
 - [X] Link to presentation (gh pages) in readme
 - [X] Ensure reveal stuff works in /docs folder
-- [ ] Add slide on Structs
+- [X] Add slide on Structs
+- [ ] Concurrency slides
+- [ ] Phoenix slides
+- [ ] Add why elixir on elixir basics slide
+- [ ] Phoenix image improvement
+- [X] Syntax header slide
+- [ ] Frontpage image (elixir logo)
 
 
 * Repo organization

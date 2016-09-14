@@ -10,6 +10,12 @@
     "erlang-and-beam-2.md",
     "elixir-basics.md",
     [
+        {
+            "filename":"elixir-syntax.md",
+            "attr": {
+               "data-background-image": "resources/elixir-syntax.png"
+            }
+        },
         "types.md",
         "operators.md",
         "functions-and-modules.md",
@@ -67,9 +73,8 @@
     ],
     [
         {
-            "filename":"what-now.md",
             "attr": {
-               "data-background-image": "resources/ecosystem.jpg"
+               "data-background-image": "resources/now-what.jpg"
             }
         },
         "what-did-i-leave-out.md",
