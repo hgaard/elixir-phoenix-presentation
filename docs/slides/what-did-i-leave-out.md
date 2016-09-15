@@ -1,7 +1,7 @@
 ## What did i leave out
 
-* Lots of Phoenix
+* Lots of Phoenix (channels)
 * Ecto
-* Nerves
-* Clustering
-* ?
+* Nerves (IOT)
+* Clustering (scaling out)
+* Loads more I still don't know about

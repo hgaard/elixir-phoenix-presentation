@@ -2,7 +2,7 @@
     {
         "filename": "index.md",
         "attr": {
-            "data-background-image": "resources/elixir-phoenix-workshop-logo.png"
+            "data-background-image": "resources/elixir-phoenix-workshop-logo-3.png"
         }
     },
     "what-is-elixir.md",
@@ -46,7 +46,7 @@
             }
         },
         "processes.md",
-        "supervisors.md"
+        "processes-example.md"
     ],
     [
         {
@@ -61,15 +61,15 @@
     ],
     [
        {
+            "filename": "phoenix.md",
             "attr": {
-               "data-background-image": "resources/phoenixframework-logo.png"
+               "data-background-image": "resources/elixir-phoenix-workshop-logo-3.png"
             }
         }, 
         "a-modern-web-framework.md",
         "building-blocks.md",
         "mvc-of-phoenix.md",
-        "phoenix-controller.md",
-        "phoenix-action.md"
+        "phoenix-demo.md"
     ],
     [
         {
@@ -78,8 +78,8 @@
             }
         },
         "what-did-i-leave-out.md",
-        "questions.md",
         "thank-you.md",
+        "questions.md",
         "resources.md"
     ]
 ]

@@ -1,3 +1,4 @@
 ## A modern web framework
 
-Philosophy (everything is a function/transforming data)
+> A productive web framework that
+does not compromise speed and maintainability.

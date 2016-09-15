@@ -1,4 +1,4 @@
-##  Pipeline and other shorthands
+## The Pipeline operator
 
 The pipeline operator is one of the features that is stolen from another language (F#)
 

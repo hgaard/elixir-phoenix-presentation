@@ -12,3 +12,5 @@ note:
     Erlang has a reputation of being hard to approach
 
     And even for experienced devs there is a lot of boilerplate ceremony
+
+    Why: However, despite some great properties, I never was (and I’m still not) quite comfortable programming in Erlang. The coding experience somehow never felt very fluent, and the resulting code was always burdened with excessive boilerplate and duplication

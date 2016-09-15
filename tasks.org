@@ -3,12 +3,14 @@
 - [X] Link to presentation (gh pages) in readme
 - [X] Ensure reveal stuff works in /docs folder
 - [X] Add slide on Structs
-- [ ] Concurrency slides
-- [ ] Phoenix slides
-- [ ] Add why elixir on elixir basics slide
-- [ ] Phoenix image improvement
+- [X] Concurrency slides
+- [X] Phoenix slides
+- [X] Add why elixir on elixir basics slide (liam comments)
+- [X] Phoenix image improvement
 - [X] Syntax header slide
-- [ ] Frontpage image (elixir logo)
+- [X] Frontpage image (elixir logo)
+- [X] fix resources slide
+- [X] Test example
 
 
 * Repo organization
