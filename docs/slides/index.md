@@ -1,8 +1,10 @@
 # elixir & phoenix
 
 ```
-    Elixir
+    What
+    |> Syntax
+    |> Concurrency
+    |> Ecosystem
     |> Phoenix
-    |> Ecto
     |> Fun & Profit
 ```

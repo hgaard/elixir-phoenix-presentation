@@ -11,6 +11,7 @@
 - [X] Frontpage image (elixir logo)
 - [X] fix resources slide
 - [X] Test example
+- [ ] kvalue list vs map
 
 
 * Repo organization
