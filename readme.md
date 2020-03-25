@@ -1,4 +1,4 @@
-# Getting some Elixir and Phhoenix under your skin
+# Getting some Elixir and Phoenix under your skin
 This repo is the result of the taks I gave at the 3rd Back2Base event at Readify Queensland
 
 ![Elixir-logo](docs/resources/elixir-logo.png)
